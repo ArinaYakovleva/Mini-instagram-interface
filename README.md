@@ -3,4 +3,4 @@ Interface of instagram app
 
 Демо видео проекта
 
-![](demo.mov)
+![](demo_video-2.mov)
